@@ -44,10 +44,10 @@ You will be able to see a webpage with form to add name,email,message and all ar
 
 Uses cases
 =============
-- form cannot be submmited without filling the all details
-- email must be a valid
-- user cannot directly subit a empty data from php
-- Submmited data can be view
+- Form cannot be submmited without filling the all details
+- Email must be a valid
+- User cannot directly submit a empty data from php
+- Submitted data can be view
 
 urls
 =====
@@ -57,9 +57,9 @@ View post page - http://getappdata.website/customer_query.php
 Technolgy stack
 ================
 - Angular
-- bootstrap
-- php
-- mysql
+- Bootstrap
+- Php
+- Mysql
 
 
 
