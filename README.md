@@ -40,7 +40,7 @@ Application Outcome Story
 Positive case 
 =============
 
-You will be able to see a webpage with form to add name,email,message and all are required field it must be filled, once filled and submitted a email will be triggered to customer care email address and stored in databse.
+You will be able to see a webpage with form to add name,email,message and all are required field it must be filled, once filled and submitted a email will be triggered to customer care email address and stored in database.
 
 Uses cases
 =============
