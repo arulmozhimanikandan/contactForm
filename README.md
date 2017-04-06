@@ -51,8 +51,8 @@ Uses cases
 
 urls
 =====
-Form page - http://getappdata.website/
-View post page - http://getappdata.website/customer_query.php
+- Form page - http://getappdata.website/
+- View post page - http://getappdata.website/customer_query.php
 
 Technolgy stack
 ================
